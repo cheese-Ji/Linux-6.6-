@@ -45,6 +45,11 @@ make install
 
 安装内核
 
+```
+update-grub
+```
+
+
 重启虚拟机
 
 
